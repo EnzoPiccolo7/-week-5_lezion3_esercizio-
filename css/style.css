@@ -1,0 +1,7 @@
+body div {
+    border: 2px red solid;
+}
+div h1 {
+    text-align: center;
+    font-size: 3rem;
+}
